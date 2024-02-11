@@ -21,7 +21,7 @@ git push -u origin main
 
 
 - Now add your changes to Staging area
-  - git add .  <! -- this will add all changes to staging area -->
+  - git add .  <! this will add all changes to staging area >
 
 - Now commit your changes from Staging area to Local repository
   - git commit -m "your-message"    <! -- Commits your changes to Local Repo -->
